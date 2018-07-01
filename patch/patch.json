@@ -1,0 +1,8 @@
+{
+  "name": "Harmonize Jolla-Email views.",
+  "description": "White text on transparent background in text/html Jolla-Email views, simplify and harmonize styles.",
+  "category": "email",
+  "infos": {
+    "maintainer": "kstenschke"
+  }
+}
