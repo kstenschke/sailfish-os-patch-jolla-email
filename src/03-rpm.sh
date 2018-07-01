@@ -4,9 +4,8 @@
 
 # Precondition: Install rpm if not yet. (mac: brew install rpm)
 
-echo "Building..."
+rpmbuild -bb ../rpm/sailfish-os-patch-jolla-email-readability.spec
 
-rpmbuild ../rpm/sailfish-os-patch-jolla-email-readability.spec
-
-echo "rpm files in /Users/kay/rpmbuild/RPMS are:"
+echo ""
+echo "RPM files in /Users/kay/rpmbuild/RPMS are:"
 ls -al /Users/kay/rpmbuild/RPMS
