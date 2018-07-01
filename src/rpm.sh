@@ -4,4 +4,4 @@
 
 # Precondition: Install rpm if not yet installed: brew install rpm
 
-rpmbuild ../rpm/sailfish-os-path-jolla-email-readability.spec
+rpmbuild ../rpm/sailfish-os-patch-jolla-email-readability.spec
