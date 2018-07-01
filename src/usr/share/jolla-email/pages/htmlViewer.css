@@ -1,0 +1,15 @@
+* { overflow-wrap: break-word; }
+pre { white-space: pre-wrap; }
+
+img[nemo-inline-image-loading=no] {
+	margin-right: 6px;
+	margin-bottom: 4px;
+}
+
+img[nemo-inline-image-loading=yes] {
+	margin-right: 6px;
+	margin-bottom: 4px;
+	max-width: 30px;
+	max-height: 30px;
+	content: url('file:///usr/share/jolla-email/images/spinner.gif');
+}
