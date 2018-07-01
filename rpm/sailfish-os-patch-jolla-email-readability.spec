@@ -5,7 +5,7 @@ Version: 0.1
 Release: 1
 Group: System/Patches
 License: GPLv2
-URL: https://github.com/kstenschke/sailfish-os-patch-jolla-email
+URL: https://github.com/kstenschke/sailfish-os-patch-jolla-email-readability
 Source0: %{name}-%{version}.tar.gz
 Requires: patchmanager
 Requires: sailfish-version >= 2.2.0
