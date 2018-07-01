@@ -1,4 +1,4 @@
-Name: sailfishos-patch-jolla-email-readability
+Name: sailfish-os-patch-jolla-email-readability
 BuildArch: noarch
 Summary: Improves Jolla-Email App: Better readability emails on display of phones / in sunlight.
 Version: 0.1
@@ -6,7 +6,7 @@ Release: 1
 Group: System/Patches
 License: GPLv2
 URL: https://github.com/kstenschke/sailfish-os-patch-jolla-email
-Source0: %{name}-%{version}.tar.xz
+Source0: %{name}-%{version}.tar.gz
 Requires: patchmanager
 Requires: sailfish-version >= 2.2.0
 
