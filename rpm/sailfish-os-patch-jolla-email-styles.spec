@@ -1,6 +1,6 @@
-Name: sailfishos-patch-jolla-email-styles
+Name: sailfishos-patch-jolla-email-readability
 BuildArch: noarch
-Summary: Patch to simplify and harmonize text- and html-mail view in Jolla-Email: Replaces white w/ transparent background and sets fonts sans-serif white.
+Summary: Improves Jolla-Email App: Better readability of plaintext- and HTML-email views on display of phones and in light surroundings.
 Version: 0.1
 Release: 1
 Group: System/Patches
