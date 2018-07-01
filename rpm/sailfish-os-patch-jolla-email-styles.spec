@@ -8,7 +8,7 @@ License: GPLv2
 URL: https://github.com/kstenschke/sailfish-os-patch-jolla-email
 Source0: %{name}-%{version}.tar.xz
 Requires: patchmanager
-Requires: sailfish-version >= 2.1.3
+Requires: sailfish-version >= 2.2.0
 
 %description
 %{summary}
