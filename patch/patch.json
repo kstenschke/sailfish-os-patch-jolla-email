@@ -1,6 +1,6 @@
 {
-  "name": "Harmonize Jolla-Email views.",
-  "description": "White text on transparent background in text/html Jolla-Email views, simplify and harmonize styles.",
+  "name": "Improve Jolla-Email readability",
+  "description": "Improves readability of plaintext- and HTML-email views on display of phones and in light surroundings.",
   "category": "email",
   "infos": {
     "maintainer": "kstenschke"
