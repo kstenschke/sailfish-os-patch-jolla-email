@@ -11,7 +11,9 @@ Requires: patchmanager
 Requires: sailfish-version >= 2.2.0
 
 %description
-%{summary}
+Patch for Sailfish OS Jolla-Email App: Improves readability of emails on display of phones / in sunlight.
+This patch removes the white background and displays text of plain-text emails white on the blurred background of the active Ambience.
+The HTML view is additionally being adjusted to override unnecessary custom styles, and to use a sans-serif font. Custom decorative CSS styles (borders, shadows, etc.) found in emails are being overriden to not be used.
 
 %prep
 %setup -q -n %{name}-%{version}
