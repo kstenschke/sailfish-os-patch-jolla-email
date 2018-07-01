@@ -1,6 +1,6 @@
 {
   "name": "Improve Jolla-Email readability",
-  "description": "Improves Jolla-Email App: Better readability of plaintext- and HTML-email views on display of phones and in light surroundings.",
+  "description": "Improves Jolla-Email App: Better readability of plaintext- and HTML-emails on display of phones and in light surroundings.",
   "category": "email",
   "infos": {
     "maintainer": "kstenschke"
